@@ -1,0 +1,29 @@
+.body {
+   background-color: black;
+}
+
+.text-1 {
+    color: white;
+    font-family: Verdana, sans-serif;
+}
+
+.text-2 {
+    color: white;
+    font-family: Verdana, sans-serif;
+}
+
+.container-0 {
+    color: white;
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+}
+
+.container-1 {
+    color: white;
+    font-family: Helvetica, sans-serif;
+}
+
+.container-2 {
+    color: white;
+    font-family: Helvetica, sans-serif;
+}
